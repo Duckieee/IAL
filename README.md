@@ -1,2 +1,7 @@
 # IAL
-University projects for IAL (Algoritmy - Algorithms)
+Univerzitní algoritmické úlohy do předmětu IAL (Algoritmy - Algorithms).
+
+## Úloha 1
+
+
+## Úloha 2
