@@ -11,7 +11,7 @@ Univerzitní algoritmické úlohy do předmětu IAL (Algoritmy - Algorithms) v j
 10/10 bodů
 
 
-## Úloha
+## Úloha 2
 
     - C401: binární strom a operace nad ním implementované rekurzivně 
     - C402: binární strom a operace nad ním implementované nerekurzivně
